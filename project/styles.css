@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #edf2f8;
+  font-family: "roboto",arial;
+  line-height: 1.7;
+  font-size: 13px;
+}
